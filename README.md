@@ -31,12 +31,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=silverkkang&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silverkkang&layout=compact&theme=tokyonight" height="150"/>
 </p>
-
----
-
-### 🎵 Live Activity
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/123456789012345678?bg=87CEFA&idleMessage=Just%20chillin'%20💤" alt="Discord Presence" />
-</p>
-  <a href="mailto:silverkkang@example.com"><img src="https://img.shields.io/badge/Email-skyblue?style=flat&logo=gmail&logoColor=white"/></a>
-</p>
